@@ -1,0 +1,14 @@
+com\id\projectMhs\Entity\MahasiswaQueryAVG.class
+com\id\projectMhs\Entity\MahasiswaQuery.class
+com\id\projectMhs\Service\DataNilaiService.class
+com\id\projectMhs\Service\MahasiswaQueryServiceImpl.class
+com\id\projectMhs\Service\DataNilaiServiceImpl.class
+com\id\projectMhs\Controller\DataNilaiController.class
+com\id\projectMhs\Entity\MataPelajaranEntity.class
+com\id\projectMhs\Entity\DataNilaiEntity.class
+com\id\projectMhs\Entity\MahasiswaEntity.class
+com\id\projectMhs\Controller\MahasiswaController.class
+com\id\projectMhs\Repository\DataNilaiRepository.class
+com\id\projectMhs\App.class
+com\id\projectMhs\Service\MahasiswaQueryService.class
+com\id\projectMhs\Repository\MahasiswaQueryRepository.class
